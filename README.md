@@ -1,5 +1,5 @@
 # jest-nightwatch-vue
 
-Boilerplate project which integrates Nightwatch with Jest for testing Vue3 components.
+Boilerplate project which integrates Nightwatch with [Jest](https://jestjs.io/) for testing Vue3 components.
 
 
