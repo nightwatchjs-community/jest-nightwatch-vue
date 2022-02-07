@@ -1,10 +1,10 @@
 {
   "name": "jest-nightwatch-vue",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "",
   "scripts": {
-    "test": ""
+    "test": "jest"
   },
   "keywords": [],
   "author": "Andrei Rusu",
