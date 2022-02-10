@@ -1,6 +1,6 @@
 # jest-nightwatch-vue
 
-<p align="center">
+<p>
   <img alt="Nightwatch.js Schematic Logo" src=".github/assets/nightwatch-logo.svg" width=200 />
   <img alt="Jest Logo" src=".github/assets/jest-logo.png" width=200 />
 </p>
