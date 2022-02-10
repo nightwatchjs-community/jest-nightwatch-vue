@@ -12,11 +12,17 @@ To render the components, the [Vite](https://vitejs.dev/) dev server is used.
 
 ## Getting Started
 
-First, install Jest, Nightwatch, and other dependencies needed for testing. In order to use Nightwatch in Jest, you need to install the `jest-environment-nightwatch`.
+### Nightwatch Jest Environment
+In order to use Nightwatch in Jest, you need to install the **[`jest-environment-nightwatch`](https://github.com/nightwatchjs/jest-environment-nightwatch/)**.
+
+
+Install Jest, Nightwatch, and other dependencies needed for testing. 
 
 ```sh
 npm i jest nightwatch jest-environment-nightwatch --save-dev
 ```
+
+### Webdriver
 
 Nightwatch needs a [W3C Webdriver](https://www.w3.org/TR/webdriver/) compatible service, depending on which browser you'll be using.
 
