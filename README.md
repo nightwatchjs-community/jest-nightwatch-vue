@@ -5,6 +5,8 @@
   <img alt="Jest Logo" src=".github/assets/jest-logo.png" width=200 />
 </p>
 
+[![Build Status][build-badge]][build]
+
 Boilerplate project which integrates Nightwatch with [Jest](https://jestjs.io/) for testing Vue 3 components.
 To render the components, the [Vite](https://vitejs.dev/) dev server is used.  
 
@@ -107,3 +109,7 @@ npm test
 Jest runs the tests in parallel by default. Here's an example output:
 
 ![terminal_screenshot](https://user-images.githubusercontent.com/419506/153366485-2a90f030-3b62-4c31-9b0d-27f5f8dfbcfa.png)
+
+[build-badge]: https://github.com/nightwatchjs/jest-nightwatch-vue/actions/workflows/node.js.yml/badge.svg?branch=main
+[build]: https://github.com/nightwatchjs/jest-nightwatch-vue/actions/workflows/node.js.yml
+
