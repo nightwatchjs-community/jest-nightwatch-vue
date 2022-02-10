@@ -6,7 +6,11 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["jest", "vue", "nightwatch"],
+  "keywords": [
+    "jest",
+    "vue",
+    "nightwatch"
+  ],
   "author": "Andrei Rusu",
   "license": "MIT",
   "devDependencies": {
