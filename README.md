@@ -97,8 +97,8 @@ module.exports = {
 This will run the included example tests in the `test` folder:
 
 - `formComponentTest.js` - tests a basic Form component
-- `vuexTest.js` - example on how to test a component which uses a Vuex v4 store
-- `vueRouterTest.js` - example on how to test a Vuex store
+- `vuexTest.js` - example on how to test a component which uses a [Vuex](https://vuex.vuejs.org/) store
+- `vueRouterTest.js` - example on how to test a component using the [VueStore](https://router.vuejs.org/)
 
 ```js
 npm test
