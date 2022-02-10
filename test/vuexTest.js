@@ -21,6 +21,4 @@ describe('Vuex Tests', () => {
       .click('[data-testid="incrementer"]')
       .assert.textEquals('[data-testid="count-value"]', '1');
   }, timeout);
-
-
 });

@@ -6,21 +6,21 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": ["jest", "vue", "nightwatch"],
   "author": "Andrei Rusu",
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.4.7",
     "jest-environment-nightwatch": "^0.2.2",
     "nightwatch": "^2.0.6",
-    "vite": "^2.7.13",
+    "vite": "^2.8.0",
     "vuex": "^4.0.2"
   },
   "dependencies": {
     "@vitejs/plugin-vue": "^2.1.0",
     "chromedriver": "^97.0.0",
     "jest-environment-node": "^27.4.6",
-    "vite-plugin-nightwatch": "^0.2.6",
+    "vite-plugin-nightwatch": "^0.2.10",
     "vue": "^3.2.29",
     "vue-router": "^4.0.12"
   }
