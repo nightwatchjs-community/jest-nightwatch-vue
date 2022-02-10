@@ -106,3 +106,4 @@ npm test
 
 Jest runs the tests in parallel by default. Here's an example output:
 
+![terminal_screenshot](https://user-images.githubusercontent.com/419506/153366485-2a90f030-3b62-4c31-9b0d-27f5f8dfbcfa.png)
